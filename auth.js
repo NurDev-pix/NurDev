@@ -16,7 +16,7 @@ function login() {
     // Простая проверка данных для примера
     if (email === "user@google.com" && password === "password123") {
         // Перенаправление на другой сайт после успешного входа
-        window.location.href = "https://.com";
+        window.location.href = "https://nurdev-pix.github.io/NurDev/page.html";
     } else {
         alert("Invalid login credentials.");
     }
